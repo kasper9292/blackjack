@@ -1,0 +1,6 @@
+		for (Speler s : spelers) {
+			System.out.println(s.getGeld());
+		}
+		for (String s : dek) {
+		System.out.println(s);
+		}
